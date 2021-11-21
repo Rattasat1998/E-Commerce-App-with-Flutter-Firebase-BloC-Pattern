@@ -4,7 +4,7 @@
 
 Ref. => https://www.youtube.com/watch?v=_cRJUgokRBs&list=PLCAZyR6zw2px5C7L2cCG4aywx6g58MIoP
 
-Ref. (IMAGE) => https://pixabay.com/th/
+Ref. (IMAGES) => https://pixabay.com/th/
 
 ## ตัวอย่างแอป
 
